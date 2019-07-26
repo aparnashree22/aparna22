@@ -1,2 +1,2 @@
-# aparna22
+# aietworkshop
 Workshop on GitHub AIET-Epitas
